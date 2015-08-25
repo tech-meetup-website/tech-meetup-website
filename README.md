@@ -1,8 +1,8 @@
 # Tech Meetup Website
 
-This project is a collaboration between multiple groups to help get a
+This project is a collaboration between multiple groups to help get an online presence up and running
 
-The target audience is a small budding community that wants to have an online presence. The meetup group may be interested in:
+The meetup group may be interested in:
 
 A common meetup site may have this content:
 - Home Page
