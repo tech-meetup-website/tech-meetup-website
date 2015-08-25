@@ -17,3 +17,9 @@ A common meetup site may have this content:
 - static content
   - Code of Conduct
   - About
+
+Some sites we've collaborated with
+- [Arlington Ruby](http://arlingtonruby.org)
+- [DC Learn JS](http://dclearnjs.github.io)
+- [Iowa's TechCorridor.io](http://techcorridor.io)
+- [NoVA Code & Coffee](http://novacodecoffee.github.io) (pending)
