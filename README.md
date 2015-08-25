@@ -1,10 +1,11 @@
 # Tech Meetup Website
 
-This project is a collaboration between multiple groups to help get an online presence up and running
+This project is a collaboration between multiple groups to help get an online presence up and running.
 
-The meetup group may be interested in:
+## Example New Jekyll Site Setup
+To see a few commits' worth of site setup, check out [this repo](https://github.com/caseywatts/novacodecoffee.github.io/commits/master) - the first 7 commits are what were needed to get a barebones site up.
 
-A common meetup site may have this content:
+## Common site content
 - Home Page
   - Banner image
   - Description
@@ -18,7 +19,8 @@ A common meetup site may have this content:
   - Code of Conduct
   - About
 
-Some sites we've collaborated with
+## Collaborators
+
 - [Arlington Ruby](http://arlingtonruby.org)
 - [DC Learn JS](http://dclearnjs.github.io)
 - [Iowa's TechCorridor.io](http://techcorridor.io)
