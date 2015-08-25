@@ -1,0 +1,29 @@
+{
+    "conformsTo": "http://codefordc.org/resources/specification.html",
+    "status": "Production",
+    "thumbnailUrl": "",
+    "contact": {
+        "name": "Tech Meetup Website",
+        "email": "casey.s.watts@gmail.com",
+        "twitter": ""
+    },
+    "bornAt": "Code for DC",
+    "geography": "",
+    "politicalEntity": {},
+    "governmentPartner": {},
+    "communityPartner": {
+        "DC Learn JS": "http://dclearnjs.github.io"
+    },
+    "type": "",
+    "data": {},
+    "needs": [
+        {
+            "need": "html/css/js"
+        },
+        {
+            "need": "rails"
+        }
+    ],
+    "categories": [],
+    "moreInfo": ""
+}
