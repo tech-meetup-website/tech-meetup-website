@@ -1,29 +1,32 @@
 {
-    "conformsTo": "http://codefordc.org/resources/specification.html",
-    "status": "Production",
-    "thumbnailUrl": "",
+    "name": "Tech Meetup Website", 
+    "description": "", 
+    "license": "GPL-2.0", 
+    "status": "Production", 
+    "type": "", 
+    "homepage": "", 
+    "repository": "https://github.com/tech-meetup-website/tech-meetup-website", 
+    "thumbnail": "", 
+    "geography": [], 
     "contact": {
-        "name": "Tech Meetup Website",
-        "email": "casey.s.watts@gmail.com",
-        "twitter": ""
-    },
-    "bornAt": "Code for DC",
-    "geography": "",
-    "politicalEntity": {},
-    "governmentPartner": {},
-    "communityPartner": {
-        "DC Learn JS": "http://dclearnjs.github.io"
-    },
-    "type": "",
-    "data": {},
-    "needs": [
+        "name": "Tech Meetup Website", 
+        "email": "casey.s.watts@gmail.com", 
+        "url": ""
+    }, 
+    "partners": [
         {
-            "need": "html/css/js"
-        },
+            "url": "http://dclearnjs.github.io", 
+            "name": "DC Learn JS", 
+            "email": ""
+        }, 
         {
-            "need": "rails"
+            "url": "http://codefordc.org", 
+            "name": "Code for DC", 
+            "email": ""
         }
-    ],
-    "categories": [],
-    "moreInfo": ""
+    ], 
+    "data": [], 
+    "tags": [], 
+    "links": [], 
+    "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json"
 }
