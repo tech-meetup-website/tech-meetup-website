@@ -21,6 +21,7 @@ To see a few commits' worth of site setup, check out [this repo](https://github.
 
 ## Collaborators
 
+- [NewHaven.io](http://newhaven.io/)
 - [Arlington Ruby](http://arlingtonruby.org)
 - [DC Learn JS](http://dclearnjs.github.io)
 - [Iowa's TechCorridor.io](http://techcorridor.io)
