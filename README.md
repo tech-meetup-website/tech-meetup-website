@@ -24,4 +24,6 @@ To see a few commits' worth of site setup, check out [this repo](https://github.
 - [Arlington Ruby](http://arlingtonruby.org)
 - [DC Learn JS](http://dclearnjs.github.io)
 - [Iowa's TechCorridor.io](http://techcorridor.io)
-- [NoVA Code & Coffee](http://novacodecoffee.github.io) (pending)
+- [NoVA Code & Coffee](http://novacodecoffee.com)
+- [ALX Code & Coffee](http://alxcodecoffee.com)
+- [DC Android](http://www.dcandroid.org/)
