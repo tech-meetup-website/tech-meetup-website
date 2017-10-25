@@ -28,3 +28,4 @@ To see a few commits' worth of site setup, check out [this repo](https://github.
 - [NoVA Code & Coffee](http://novacodecoffee.com)
 - [ALX Code & Coffee](http://alxcodecoffee.com)
 - [DC Android](http://www.dcandroid.org/)
+- [Uptown Brigade](http://uptown.codes/)
